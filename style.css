@@ -1,0 +1,25 @@
+/* 
+Theme Name: Simple Blog Website
+Theme URI: https://designsvalley.com/
+Description: The Simple blog website is created by Designsvalley
+Author: Designsvalley Team
+Author URI: https://designsvalley.com/
+Template: hello-elementor
+Version: 1.0.1
+Text Domain: sbw
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, threaded-comments, translation-ready
+*/
+
+
+/* Add your custom styles here */
+
+dd,
+dl,
+dt,
+li,
+ol,
+ul {
+    display: none;
+}
